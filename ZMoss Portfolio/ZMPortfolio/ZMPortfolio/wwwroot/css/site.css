@@ -14,7 +14,8 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-image: linear-gradient(180deg, white, teal);
 }
 
 .display-4{
@@ -28,4 +29,29 @@ body {
 
 footer {
     background-color: white;
+}
+
+.profimg{
+    width: 300px;
+    border-radius: 50%;
+    transition: transform .2s;
+}
+
+.profimg:hover {
+    transform: scale(1.15)
+}
+
+.edulist li{
+    font-size: larger;
+    color:teal;
+}
+
+.about {
+    font-size: larger;
+    color:teal;
+}
+
+.card {
+    padding:5px;
+    margin:10px;
 }

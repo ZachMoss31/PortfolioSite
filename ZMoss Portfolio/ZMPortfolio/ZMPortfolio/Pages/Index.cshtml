@@ -1,12 +1,39 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "About";
+    ViewData["Title"] = "Home";
 }
-<div class="text-center">
-    <h1 class="display-4">Hello!</h1>
-    <p>Learn about <a href="https://www.weber.edu/">my education at Weber State</a>.</p>
-</div>
+<p>Each of the nav buttons' text should grow when hovered</p>
+<img src="/images/ZachHat_Crop.jpg" alt="ZachHat" class="card profimg text-center"/>
+<h1 class="display-4">Hello, I'm Zach!</h1>
+
+<body>
+    <div class="card">
+        <h1>About</h1>
+        <p class="about">I love gaming!
+            Lets put this and the "Hello" up above by my picture, with a list of
+            what I'm currently Working on</p>
+    </div>
+
+    <div class="card">
+        <h1>Education</h1>
+        <div class="card-columns">
+            <ul class="edulist">
+            <li>Associate's of Science</li>
+            <li>Associate's of Applied Science</li>
+            <li>Game Development Certificate</li>
+            <li>Bachelor's of Science'</li>
+        </ul>
+        <p>Lets put icon of each school, and in the collapsable, a link to the degree!</p>
+        </div>
+    </div>
+
+    <div class="card">
+        <h1>Resume</h1>
+        <p class="about">My latest CV can be downloaded below!</p>
+    </div>
+
+</body>
 <style>
     body {
         background-image: linear-gradient(180deg, white, teal);
