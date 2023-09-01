@@ -15,23 +15,80 @@
             what I'm currently Working on</p>
     </div>
 
-    <div class="card">
-        <h1>Education</h1>
-        <div class="card-columns">
-            <ul class="edulist">
-            <li>Associate's of Science</li>
-            <li>Associate's of Applied Science</li>
-            <li>Game Development Certificate</li>
-            <li>Bachelor's of Science'</li>
-        </ul>
-        <p>Lets put icon of each school, and in the collapsable, a link to the degree!</p>
-        </div>
+    <!-- The Education Div Group -->
+    <div class="card education">
+    <h1>Education</h1>
+    <div class="card-columns">
+            <div class="accordion">
+
+                <div class="accordion-item hoverpop">
+                    <h2 class="accordion-header" id="h-1">
+                        <button class="accordion-button collapsed major" type="button" data-bs-toggle="collapse" data-bs-target="#c-1" aria-expanded="false" aria-controls="c-1">
+                            Associate's of Science
+                        </button>
+                    </h2>
+                    <div id="c-1" class="accordion-collapse collapse" aria-labelledby="h-1">
+                        <div class="accordion-body">
+                            UVU
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="accordion-item hoverpop">
+                    <h2 class="accordion-header" id="h-2">
+                        <button class="accordion-button collapsed major" type="button" data-bs-toggle="collapse" data-bs-target="#c-2" aria-expanded="false" aria-controls="c-2">
+                            Associate's of Applied Science - Computer Science
+                        </button>
+                    </h2>
+                    <div id="c-2" class="accordion-collapse collapse" aria-labelledby="h-2">
+                        <div class="accordion-body">
+                            Weber
+                        </div>
+                    </div>
+                </div>
+
+                <div class="accordion-item hoverpop">
+                    <h2 class="accordion-header" id="h-3">
+                        <button class="accordion-button collapsed major" type="button" data-bs-toggle="collapse" data-bs-target="#c-3" aria-expanded="false" aria-controls="c-2">
+                            Certificate of Game Development
+                        </button>
+                    </h2>
+                    <div id="c-3" class="accordion-collapse collapse" aria-labelledby="h-3">
+                        <div class="accordion-body">
+                            Weber
+                        </div>
+                    </div>
+                </div>
+
+                <div class="accordion-item hoverpop">
+                    <h2 class="accordion-header" id="h-4">
+                        <button class="accordion-button collapsed major" type="button" data-bs-toggle="collapse" data-bs-target="#c-4" aria-expanded="false" aria-controls="c-2">
+                            Bachelor's of Science - Computer Science
+                        </button>
+                    </h2>
+                    <div id="c-4" class="accordion-collapse collapse" aria-labelledby="h-4">
+                        <div class="accordion-body">
+                            Weber
+                        </div>
+                    </div>
+                </div>
+
+            </div>
     </div>
+</div>
+
+
+
+
 
     <div class="card">
         <h1>Resume</h1>
         <p class="about">My latest CV can be downloaded below!</p>
     </div>
+
+
+
 
 </body>
 <style>

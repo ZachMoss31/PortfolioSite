@@ -41,8 +41,8 @@ footer {
     transform: scale(1.15)
 }
 
-.edulist li{
-    font-size: larger;
+.major{
+    font-size: large;
     color:teal;
 }
 
@@ -54,4 +54,29 @@ footer {
 .card {
     padding:5px;
     margin:10px;
+}
+
+.accordion-item {
+    margin-right: 2em;
+    margin-left: 2em;
+}
+
+.accordion-button::after{
+    background-image: initial;
+}
+
+.accordion-button:not(.collapsed)::after{
+    background-image: initial;
+}
+
+.hoverpop {
+    transition: transform .2s;
+}
+
+.hoverpop:hover {
+    transform: scale(1.05);
+}
+
+.education {
+    padding-bottom: 1.5em;
 }
