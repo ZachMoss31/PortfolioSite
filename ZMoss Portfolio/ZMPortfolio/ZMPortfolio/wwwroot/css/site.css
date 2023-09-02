@@ -31,14 +31,21 @@ footer {
     background-color: white;
 }
 
-.profimg{
+.profimg {
     width: 300px;
     border-radius: 50%;
     transition: transform .2s;
+    text-align: center;
+    margin: 0 auto;
 }
 
 .profimg:hover {
     transform: scale(1.15)
+}
+
+.resume{
+    width: 300px;
+    height: 300px;
 }
 
 .major{
@@ -77,6 +84,24 @@ footer {
     transform: scale(1.05);
 }
 
+.hoverpopnav{
+    transition: transform .1s;
+}
+
+.hoverpopnav:hover{
+    transform: scale(1.1);
+}
+
 .education {
     padding-bottom: 1.5em;
+}
+
+.uvu{
+    color: forestgreen;
+    font-weight: bold;
+}
+
+.wsu{
+    color: purple;
+    font-weight: bold;
 }

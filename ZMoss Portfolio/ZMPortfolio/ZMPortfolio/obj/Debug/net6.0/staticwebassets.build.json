@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rFnigEXwyxoT5efhQkuxRL9y4iYS843YEFqHY1+XMNw=",
+  "Hash": "nK5UZVsFWPXDhTa61/5lHK8E8jHvFAs5bWdI80i4hQI=",
   "Source": "ZMPortfolio",
   "BasePath": "_content/ZMPortfolio",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Danke\\OneDrive\\Documents\\OneDrive Folders\\Desktop\\Portfolio Projects\\ZMPortfolio\\ZMoss Portfolio\\ZMPortfolio\\ZMPortfolio\\wwwroot\\images\\Zach Moss Resume.pdf",
+      "SourceId": "ZMPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Danke\\OneDrive\\Documents\\OneDrive Folders\\Desktop\\Portfolio Projects\\ZMPortfolio\\ZMoss Portfolio\\ZMPortfolio\\ZMPortfolio\\wwwroot\\",
+      "BasePath": "_content/ZMPortfolio",
+      "RelativePath": "images/Zach Moss Resume.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Zach Moss Resume.pdf"
     },
     {
       "Identity": "C:\\Users\\Danke\\OneDrive\\Documents\\OneDrive Folders\\Desktop\\Portfolio Projects\\ZMPortfolio\\ZMoss Portfolio\\ZMPortfolio\\ZMPortfolio\\wwwroot\\images\\ZachHat.jpg",
