@@ -105,3 +105,11 @@ footer {
     color: purple;
     font-weight: bold;
 }
+
+.headstyle {
+    color:teal;
+}
+
+.headstyle:hover {
+    transform: scale(1.3);
+}
