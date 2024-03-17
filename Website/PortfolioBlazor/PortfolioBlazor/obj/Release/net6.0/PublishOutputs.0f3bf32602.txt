@@ -1,1 +1,0 @@
-C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\Website\PortfolioBlazor\PortfolioBlazor\obj\Release\net6.0\browser-wasm\PubTmp\Out\web.config

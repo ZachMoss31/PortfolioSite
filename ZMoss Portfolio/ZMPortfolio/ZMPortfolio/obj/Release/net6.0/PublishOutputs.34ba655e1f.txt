@@ -1,0 +1,7 @@
+C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\ZMoss Portfolio\ZMPortfolio\ZMPortfolio\obj\Release\net6.0\PubTmp\Out\ZMPortfolio.exe
+C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\ZMoss Portfolio\ZMPortfolio\ZMPortfolio\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\ZMoss Portfolio\ZMPortfolio\ZMPortfolio\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\ZMoss Portfolio\ZMPortfolio\ZMPortfolio\obj\Release\net6.0\PubTmp\Out\ZMPortfolio.dll
+C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\ZMoss Portfolio\ZMPortfolio\ZMPortfolio\obj\Release\net6.0\PubTmp\Out\ZMPortfolio.deps.json
+C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\ZMoss Portfolio\ZMPortfolio\ZMPortfolio\obj\Release\net6.0\PubTmp\Out\ZMPortfolio.runtimeconfig.json
+C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\ZMoss Portfolio\ZMPortfolio\ZMPortfolio\obj\Release\net6.0\PubTmp\Out\ZMPortfolio.pdb
