@@ -6,7 +6,6 @@ C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZM
 C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\ZMoss Portfolio\ZMPortfolio\ZMPortfolio\bin\Debug\net6.0\ZMPortfolio.runtimeconfig.json
 C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\ZMoss Portfolio\ZMPortfolio\ZMPortfolio\bin\Debug\net6.0\ZMPortfolio.dll
 C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\ZMoss Portfolio\ZMPortfolio\ZMPortfolio\bin\Debug\net6.0\ZMPortfolio.pdb
-C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\ZMoss Portfolio\ZMPortfolio\ZMPortfolio\obj\Debug\net6.0\ZMPortfolio.csproj.AssemblyReference.cache
 C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\ZMoss Portfolio\ZMPortfolio\ZMPortfolio\obj\Debug\net6.0\ZMPortfolio.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\ZMoss Portfolio\ZMPortfolio\ZMPortfolio\obj\Debug\net6.0\ZMPortfolio.AssemblyInfoInputs.cache
 C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\ZMoss Portfolio\ZMPortfolio\ZMPortfolio\obj\Debug\net6.0\ZMPortfolio.AssemblyInfo.cs
@@ -24,3 +23,9 @@ C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZM
 C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\ZMoss Portfolio\ZMPortfolio\ZMPortfolio\obj\Debug\net6.0\ZMPortfolio.pdb
 C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\ZMoss Portfolio\ZMPortfolio\ZMPortfolio\obj\Debug\net6.0\ZMPortfolio.genruntimeconfig.cache
 C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\ZMoss Portfolio\ZMPortfolio\ZMPortfolio\obj\Debug\net6.0\ref\ZMPortfolio.dll
+C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\ZMoss Portfolio\ZMPortfolio\ZMPortfolio\obj\Debug\net6.0\ZMPortfolio.sourcelink.json
+C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\ZMoss Portfolio\ZMPortfolio\ZMPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.ZMPortfolio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\ZMoss Portfolio\ZMPortfolio\ZMPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.build.ZMPortfolio.props
+C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\ZMoss Portfolio\ZMPortfolio\ZMPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ZMPortfolio.props
+C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\ZMoss Portfolio\ZMPortfolio\ZMPortfolio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ZMPortfolio.props
+C:\Users\Danke\OneDrive\Documents\OneDrive Folders\Desktop\Portfolio Projects\ZMPortfolio\ZMoss Portfolio\ZMPortfolio\ZMPortfolio\obj\Debug\net6.0\staticwebassets.pack.json

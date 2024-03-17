@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZMPortfolio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2724f30e8b5943f94ab9d5280434eaf539f0539b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZMPortfolio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZMPortfolio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
